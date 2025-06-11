@@ -40,7 +40,7 @@ This project builds a **Decision Tree Classifier** to predict whether a customer
 
 | Plot | Description |
 |------|-------------|
-| 🌳 Decision Tree | Displays how the model makes decisions based on `Age`, `Income`, and `Gender` |
+|![Decision Tree](DecisionTree.png) | Displays how the model makes decisions based on `Age`, `Income`, and `Gender` |
 
 The decision tree is visualized using `matplotlib` and `sklearn.tree.plot_tree()`. 
 
